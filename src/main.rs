@@ -27,7 +27,7 @@ let mainfest = format!("{{
           }}
     ],
     \"start_url\": \"{}\",
-    \"background_color\": \"#0a0b0c\",
+    \"background_color\": \"#fff\",
     \"display\": \"standalone\",
     \"scope\": \".\",
     \"theme_color\": \"#2ea1f2\"
